@@ -1,4 +1,4 @@
-'''This will be a collection of our first set of functions'''
+ '''This will be a collection of our first set of functions'''
 
 # Our first function!
 def max_of_three(arg1, arg2, arg3):
